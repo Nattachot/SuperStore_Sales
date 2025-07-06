@@ -3,7 +3,10 @@
 > วิเคราะห์ยอดขาย กำไร และพฤติกรรมลูกค้าจากชุดข้อมูล Superstore ด้วย Power BI  
 > พร้อมระบุปัญหาเชิงธุรกิจ และแนวทางปรับกลยุทธ์ด้วย Data-Driven Dashboard
 
-![Descriptive Analysis](Descriptive_Analysis.png)
+![Descriptive Analysis](Images/Descriptive_Analysis.png)
+![Summary](Images/Summary.png)
+![Product Analysis](Images/Product_Analysis.png)
+![Customer Focus](Images/Customer_Focus.png)
 
 ---
 
